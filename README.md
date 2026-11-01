@@ -22,7 +22,7 @@ Final-semester Computer Science and Software Engineering student at the **Univer
 ## Featured Work
 
 - **[Interactive Portfolio & Retro Companion](https://josuetorres27.github.io/):** Personal portfolio featuring a custom pixel-art interactive guide, procedural 8-bit audio synthesis via Web Audio API, dual-language architecture (EN/ES), and zero-build static performance.
-- **[LASCE Institutional Scientific Platform](https://lasce.up.railway.app/):** Full-stack institutional CMS and observatory data visualization developed for the Solar Astrophysics and Space Weather Laboratory (UCR), built with Next.js 16, React 19, PostgreSQL, Redis, and MinIO.
+- **[LASCE Institutional Scientific Platform](https://lasce.up.railway.app/):** Full-stack institutional CMS and observatory data visualization developed for the Solar Astrophysics and Space Weather Laboratory (UCR), built with Next.js 16, React 19, and PostgreSQL.
 - **[Biological Microscope Administration Panel](https://github.com/RolandoVillavicencio013/biological-microscope-administration-panel):** Desktop administration suite that digitizes microscopy workflows and manages biological specimen collections, built with C#, ASP.NET Core, and PostgreSQL.
 - **ThemePark UCR — Virtual University Simulation:** Virtual campus simulation built in Unity with decoupled RESTful APIs, C#, and SQL Server.
 - **Distributed ASCII Art System:** Distributed client-server network architecture for managing and rendering ASCII art figures across Linux nodes using TCP/IP sockets and IPC.
