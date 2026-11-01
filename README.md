@@ -1,16 +1,43 @@
-## Hi there 👋
+# Josue Torres Sibaja
 
-<!--
-**josuetorres27/josuetorres27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-josuetorres27.github.io-3b82f6?style=flat-square&logo=google-chrome&logoColor=white)](https://josuetorres27.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-josue--torres--sibaja-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-torres-sibaja/)
+[![Email](https://img.shields.io/badge/Email-dev.josue.torres%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.josue.torres@gmail.com)
+[![Education](https://img.shields.io/badge/UCR-Computer_Science_&_Software_Engineering-0284c7?style=flat-square)](https://josuetorres27.github.io/)
 
-Here are some ideas to get you started:
+Final-semester Computer Science and Software Engineering student at the **Universidad de Costa Rica (UCR)**. I have a passion for architecting robust, scalable systems and building clean, high-performance software that solves real problems. My background combines rigorous theoretical foundations (data structures, algorithms, object-oriented design, distributed systems) with practical experience in university IT infrastructure, full-stack scientific applications, and applied AI developer workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Stack & Tools
+
+- **Languages:** Python, C++, TypeScript, JavaScript (ES6+), C#, Java, SQL, HTML5, CSS3
+- **Frameworks & Libraries:** Next.js 16, React 19, ASP.NET Core, Node.js, Tailwind CSS, Prisma ORM
+- **Databases & Messaging:** PostgreSQL, Microsoft SQL Server, Redis, BullMQ, MinIO (S3-compatible Object Storage)
+- **Developer Tools & Infrastructure:** Git, GitHub Actions (CI/CD), Linux (Ubuntu/Debian), Windows, Docker, Playwright, Vitest, Visual Studio, VS Code
+- **Applied AI & Agentic Workflows:** Multi-Agent Systems, Autonomous Coding Agents, Gemini API, Claude API, OpenAI SDK, Tool & Function Calling, Prompt & Context Engineering
+
+---
+
+## Featured Work
+
+- **[Interactive Portfolio & Retro Companion](https://josuetorres27.github.io/):** Personal portfolio featuring a custom pixel-art interactive guide, procedural 8-bit audio synthesis via Web Audio API, dual-language architecture (EN/ES), and zero-build static performance.
+- **[LASCE Institutional Scientific Platform](https://lasce.up.railway.app/):** Full-stack institutional CMS and observatory data visualization developed for the Solar Astrophysics and Space Weather Laboratory (UCR), built with Next.js 16, React 19, Prisma, PostgreSQL, Redis, and MinIO.
+- **[Biological Microscope Administration Panel](https://github.com/RolandoVillavicencio013/biological-microscope-administration-panel):** Desktop administration suite that digitizes microscopy workflows and manages biological specimen collections, built with C#, ASP.NET Core, and PostgreSQL.
+- **ThemePark UCR — Virtual University Simulation:** Virtual campus simulation built in Unity with decoupled RESTful APIs, C#, and SQL Server.
+- **Distributed ASCII Art System:** Distributed client-server network architecture for managing and rendering ASCII art figures across Linux nodes using TCP/IP sockets and IPC.
+- **¿Quién controla nuestra atención? (Ethical Vodcast):** Audiovisual ethical investigation analyzing algorithmic recommendation engines, the attention economy, and engineering ethics.
+
+---
+
+## Contact & Connect
+
+- **Portfolio:** [https://josuetorres27.github.io](https://josuetorres27.github.io)
+- **LinkedIn:** [linkedin.com/in/josue-torres-sibaja](https://www.linkedin.com/in/josue-torres-sibaja/)
+- **Email:** [dev.josue.torres@gmail.com](mailto:dev.josue.torres@gmail.com)
+
+---
+
+<div align="center">
+  <sub>Designed & Maintained by Josue Torres Sibaja</sub>
+</div>
