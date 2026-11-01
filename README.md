@@ -12,17 +12,17 @@ Final-semester Computer Science and Software Engineering student at the **Univer
 ## Technical Stack & Tools
 
 - **Languages:** Python, C++, TypeScript, JavaScript (ES6+), C#, Java, SQL, HTML5, CSS3
-- **Frameworks & Libraries:** Next.js 16, React 19, ASP.NET Core, Node.js, Tailwind CSS, Prisma ORM
-- **Databases & Messaging:** PostgreSQL, Microsoft SQL Server, Redis, BullMQ, MinIO (S3-compatible Object Storage)
-- **Developer Tools & Infrastructure:** Git, GitHub Actions (CI/CD), Linux (Ubuntu/Debian), Windows, Docker, Playwright, Vitest, Visual Studio, VS Code
-- **Applied AI & Agentic Workflows:** Multi-Agent Systems, Autonomous Coding Agents, Gemini API, Claude API, OpenAI SDK, Tool & Function Calling, Prompt & Context Engineering
+- **Frameworks & Libraries:** Next.js 16, React 19, ASP.NET Core, Node.js, Tailwind CSS
+- **Databases:** Microsoft SQL Server, PostgreSQL
+- **Developer Tools & Infrastructure:** Git, GitHub Actions (CI/CD), Linux, Windows, Docker, Visual Studio, VS Code
+- **Applied AI & Agentic Workflows:** Multi-Agent Systems, Autonomous Coding Agents, Google Antigravity, Claude Code, GitHub Copilot, Tool & Function Calling, Prompt & Context Engineering
 
 ---
 
 ## Featured Work
 
 - **[Interactive Portfolio & Retro Companion](https://josuetorres27.github.io/):** Personal portfolio featuring a custom pixel-art interactive guide, procedural 8-bit audio synthesis via Web Audio API, dual-language architecture (EN/ES), and zero-build static performance.
-- **[LASCE Institutional Scientific Platform](https://lasce.up.railway.app/):** Full-stack institutional CMS and observatory data visualization developed for the Solar Astrophysics and Space Weather Laboratory (UCR), built with Next.js 16, React 19, Prisma, PostgreSQL, Redis, and MinIO.
+- **[LASCE Institutional Scientific Platform](https://lasce.up.railway.app/):** Full-stack institutional CMS and observatory data visualization developed for the Solar Astrophysics and Space Weather Laboratory (UCR), built with Next.js 16, React 19, PostgreSQL, Redis, and MinIO.
 - **[Biological Microscope Administration Panel](https://github.com/RolandoVillavicencio013/biological-microscope-administration-panel):** Desktop administration suite that digitizes microscopy workflows and manages biological specimen collections, built with C#, ASP.NET Core, and PostgreSQL.
 - **ThemePark UCR — Virtual University Simulation:** Virtual campus simulation built in Unity with decoupled RESTful APIs, C#, and SQL Server.
 - **Distributed ASCII Art System:** Distributed client-server network architecture for managing and rendering ASCII art figures across Linux nodes using TCP/IP sockets and IPC.
