@@ -1,9 +1,9 @@
 # Josue Torres Sibaja
 
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-josuetorres27.github.io-3b82f6?style=flat-square&logo=google-chrome&logoColor=white)](https://josuetorres27.github.io/)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-josuetorres.tech-3b82f6?style=flat-square&logo=google-chrome&logoColor=white)](https://josuetorres.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-josue--torres--sibaja-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-torres-sibaja/)
 [![Email](https://img.shields.io/badge/Email-dev.josue.torres%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.josue.torres@gmail.com)
-[![Education](https://img.shields.io/badge/UCR-Computer_Science_&_Software_Engineering-0284c7?style=flat-square)](https://josuetorres27.github.io/)
+[![Education](https://img.shields.io/badge/UCR-Computer_Science_&_Software_Engineering-0284c7?style=flat-square)](https://josuetorres.tech/)
 
 Final-semester Computer Science and Software Engineering student at the **Universidad de Costa Rica (UCR)**. I have a passion for architecting robust, scalable systems and building clean, high-performance software that solves real problems. My background combines rigorous theoretical foundations (data structures, algorithms, object-oriented design, distributed systems) with practical experience in university IT infrastructure, full-stack scientific applications, and applied AI developer workflows.
 
@@ -21,7 +21,7 @@ Final-semester Computer Science and Software Engineering student at the **Univer
 
 ## Featured Work
 
-- **[Interactive Portfolio & Retro Companion](https://josuetorres27.github.io/):** Personal portfolio featuring a custom pixel-art interactive guide, procedural 8-bit audio synthesis via Web Audio API, dual-language architecture (EN/ES), and zero-build static performance.
+- **[Interactive Portfolio & Retro Companion](https://josuetorres.tech/):** Personal portfolio featuring a custom pixel-art interactive guide, procedural 8-bit audio synthesis via Web Audio API, dual-language architecture (EN/ES), and zero-build static performance.
 - **[LASCE Institutional Scientific Platform](https://lasce.up.railway.app/):** Full-stack institutional CMS and observatory data visualization developed for the Solar Astrophysics and Space Weather Laboratory (UCR), built with Next.js 16, React 19, Prisma ORM, PostgreSQL, Redis, BullMQ, MinIO, and Playwright.
 - **[Biological Microscope Administration Panel](https://github.com/RolandoVillavicencio013/biological-microscope-administration-panel):** Desktop administration suite that digitizes microscopy workflows and manages biological specimen collections, built with C#, ASP.NET Core, and PostgreSQL.
 - **ThemePark UCR — Virtual University Simulation:** Virtual campus simulation built in Unity with decoupled RESTful APIs, C#, and SQL Server.
@@ -32,7 +32,7 @@ Final-semester Computer Science and Software Engineering student at the **Univer
 
 ## Contact & Connect
 
-- **Portfolio:** [https://josuetorres27.github.io](https://josuetorres27.github.io)
+- **Portfolio:** [https://josuetorres.tech](https://josuetorres.tech)
 - **LinkedIn:** [linkedin.com/in/josue-torres-sibaja](https://www.linkedin.com/in/josue-torres-sibaja/)
 - **Email:** [dev.josue.torres@gmail.com](mailto:dev.josue.torres@gmail.com)
 
