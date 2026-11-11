@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-dev.josue.torres%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.josue.torres@gmail.com)
 [![Education](https://img.shields.io/badge/UCR-Computer_Science_&_Software_Engineering-0284c7?style=flat-square)](https://josuetorres.tech/)
 
-Final-semester Computer Science and Software Engineering student at the **Universidad de Costa Rica (UCR)**. I have a passion for architecting robust, scalable systems and building clean, high-performance software that solves real problems. My background combines rigorous theoretical foundations (data structures, algorithms, object-oriented design, distributed systems) with practical experience in university IT infrastructure, full-stack scientific applications, and applied AI developer workflows.
+**Computer Science Graduating Senior** (Software Engineering emphasis) at the **University of Costa Rica (UCR)** (coursework completed Dec 2026; degree expected April 2027), available immediately for full-time entry-level and junior Software Engineering roles. I focus on building scalable full-stack, systems-level, and distributed backend software using modern engineering practices and AI agentic workflows — combining strong theoretical foundations (data structures, algorithms, object-oriented design, distributed systems) with practical experience in university Information Technology infrastructure, institutional full-stack web platforms, and applied AI developer tooling.
 
 ---
 
