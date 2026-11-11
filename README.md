@@ -3,7 +3,7 @@
 [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-josuetorres.tech-3b82f6?style=flat-square&logo=google-chrome&logoColor=white)](https://josuetorres.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-josue--torres--sibaja-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-torres-sibaja/)
 [![Email](https://img.shields.io/badge/Email-dev.josue.torres%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.josue.torres@gmail.com)
-[![Education](https://img.shields.io/badge/UCR-Computer_Science_&_Software_Engineering-0284c7?style=flat-square)](https://josuetorres.tech/)
+[![Education](https://img.shields.io/badge/UCR-Computer_Science--Software_Engineering_Emphasis-0284c7?style=flat-square)](https://josuetorres.tech/)
 
 **Computer Science Graduating Senior** (Software Engineering emphasis) at the **University of Costa Rica (UCR)** (coursework completed Dec 2026; degree expected April 2027), available immediately for full-time entry-level and junior Software Engineering roles. I focus on building scalable full-stack, systems-level, and distributed backend software using modern engineering practices and AI agentic workflows — combining strong theoretical foundations (data structures, algorithms, object-oriented design, distributed systems) with practical experience in university Information Technology infrastructure, institutional full-stack web platforms, and applied AI developer tooling.
 
