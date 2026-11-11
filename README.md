@@ -21,12 +21,11 @@
 
 ## Featured Work
 
+- **[CS Interactive Workshop](https://cs-interactive-workshop.web.app/):** Interactive Computer Science learning platform for UCR students covering algorithms, parallel/concurrent programming, TCP/IP sockets, interview patterns, and SQL through live browser simulations backed by native C/C++17 engines ([GitHub Repository](https://github.com/josuetorres27/cs-interactive-workshop)). Deployed live on Google Firebase Hosting with Cloud Firestore cloud progress sync, backed by 888 automated tests in CI/CD, and developed through agentic AI & prompt-engineering workflows.
 - **[Interactive Portfolio & Retro Companion](https://josuetorres.tech/):** Personal portfolio featuring a custom pixel-art interactive guide, procedural 8-bit audio synthesis via Web Audio API, dual-language architecture (EN/ES), and zero-build static performance.
 - **[LASCE Institutional Scientific Platform](https://lasce.ucr.ac.cr):** Full-stack institutional CMS and observatory data visualization developed for the Solar Astrophysics and Space Weather Laboratory (UCR) ([GitHub Repository](https://github.com/LasceUCR/lasce)), built with Next.js 16, React 19, Prisma ORM, PostgreSQL, Redis, BullMQ, MinIO, and Playwright.
 - **[Biological Microscope Administration Panel](https://github.com/RolandoVillavicencio013/biological-microscope-administration-panel):** Desktop administration suite that digitizes microscopy workflows and manages biological specimen collections, built with C#, ASP.NET Core, and PostgreSQL.
 - **ThemePark UCR — Virtual University Simulation:** Virtual campus simulation built in Unity with decoupled RESTful APIs, C#, and SQL Server.
-- **Distributed ASCII Art System:** Distributed client-server network architecture for managing and rendering ASCII art figures across Linux nodes using TCP/IP sockets and IPC.
-- **¿Quién controla nuestra atención? (Ethical Vodcast):** Audiovisual ethical investigation analyzing algorithmic recommendation engines, the attention economy, and engineering ethics.
 
 ---
 
