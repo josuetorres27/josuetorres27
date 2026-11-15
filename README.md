@@ -44,7 +44,5 @@ Computer Science Graduating Senior (Software Engineering emphasis) at the Univer
 - **Portfolio:** [https://josuetorressibaja.com](https://josuetorressibaja.com/)
 - **LinkedIn:** [linkedin.com/in/josue-torres-sibaja](https://www.linkedin.com/in/josue-torres-sibaja/)
 - **Email:** [dev.josue.torres@gmail.com](mailto:dev.josue.torres@gmail.com)
-
----
-
-Created by **Josue Torres Sibaja** · [Portfolio](https://josuetorressibaja.com/) · [LinkedIn](https://www.linkedin.com/in/josue-torres-sibaja/) · [GitHub](https://github.com/josuetorres27)
+- **Resume (English):** [Josue_Torres_Sibaja_Resume.pdf](https://josuetorressibaja.com/docs/Josue_Torres_Sibaja_Resume.pdf)
+- **CV (Spanish):** [Josue_Torres_Sibaja_CV.pdf](https://josuetorressibaja.com/docs/Josue_Torres_Sibaja_CV.pdf)
