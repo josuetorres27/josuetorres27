@@ -11,7 +11,7 @@ Computer Science Graduating Senior (Software Engineering emphasis) at the Univer
 
 ## About Me
 
-- **Education:** Computer Science (Software Engineering emphasis), University of Costa Rica (UCR); coursework completed Dec 2026, degree expected Apr 2027.
+- **Education:** B.Sc. in Computer Science (Software Engineering emphasis), University of Costa Rica (UCR), Mar 2023 – Dec 2026; coursework completed, degree expected Apr 2027.
 - **Current Role:** IT Support Assistant at the University of Costa Rica (Orientation Office), Aug 2026 – Present.
 - **Availability:** Available immediately for full-time entry-level and junior Software Engineering roles.
 
